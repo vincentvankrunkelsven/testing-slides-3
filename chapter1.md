@@ -114,3 +114,13 @@ test_error()
 
 success_msg("Good work!")
 ```
+
+--- type:VideoExercise lang:r xp:50 skills:1 key:c887bfcaa6
+## Test
+
+
+*** =video_link
+//player.vimeo.com/video/154783078
+
+*** =projector_key
+243f10cc189e54f8e8c51edd8ee468f0
