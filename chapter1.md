@@ -10,3 +10,31 @@ attachments :
 
 *** =projector_key
 243f10cc189e54f8e8c51edd8ee468f0
+
+--- type:NormalExercise lang:r xp:100 skills:1 key:0d449f94b2
+## Test
+
+
+*** =instructions
+
+*** =hint
+
+*** =pre_exercise_code
+```{r}
+
+```
+
+*** =sample_code
+```{r}
+
+```
+
+*** =solution
+```{r}
+
+```
+
+*** =sct
+```{r}
+
+```
